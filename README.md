@@ -2,13 +2,22 @@
 The following is a template repo for creating parallel programming projects that will be running on a linux environment. 
 
 
-#### Requirements
+## Requirements
 
+*Your requirements here*
 
+## Milestones
 
-#### Milestones
+*Your milestones here*
 
+## Stretch Goals
 
+*v2.0.0 features*
 
-#### Stretch Goals
+## Budget
 
+*The budget you have for the project*
+
+## Hours
+
+*The hours you have*
